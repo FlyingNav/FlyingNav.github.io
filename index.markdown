@@ -3,24 +3,24 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: FlyNav - Advanced Flight Navigation Android App
+title: FlyingNav - Advanced Flight Navigation Android App
 ---
 
 <img src="/assets/PlayStore1-05.png" alt="MainHeader"/>
 
-# Welcome to FlyNav!
+# Welcome to FlyingNav!
 
-FlyNav is an advanced Android application designed to enhance flight navigation, weather awareness, and overall situational awareness for pilots, glider enthusiasts, and aviation hobbyists. Whether you're a seasoned pilot or just beginning your aviation journey, FlyNav provides you with the tools and data you need to plan, execute, and analyze your flights with confidence and precision.
+FlyingNav is an advanced Android application designed to enhance flight navigation, weather awareness, and overall situational awareness for pilots, glider enthusiasts, and aviation hobbyists. Whether you're a seasoned pilot or just beginning your aviation journey, FlyingNav provides you with the tools and data you need to plan, execute, and analyze your flights with confidence and precision.
 
 [Google Play Store](https://play.google.com/store/apps/details?id=com.FlyProject.flyingNav&pcampaignid=web_share)
 
 ## Overview
 
-FlyNav is more than just a normal flying app; it's a comprehensive flight management system for your mobile device. It integrates a moving map system, GPS tracking, airport, airspace, navigation aids and obstacle information, all in an intuitive interface. The application leverages advanced technologies like OpenAIP data integration, and robust GPS and sensor integration to deliver a powerful and versatile flying companion.
+FlyingNav is more than just a normal flying app; it's a comprehensive flight management system for your mobile device. It integrates a moving map system, GPS tracking, airport, airspace, navigation aids and obstacle information, all in an intuitive interface. The application leverages advanced technologies like OpenAIP data integration, and robust GPS and sensor integration to deliver a powerful and versatile flying companion.
 
 ## Core Features
 
-FlyNav offers a wide range of features to support various aspects of flight planning and execution:
+FlyingNav offers a wide range of features to support various aspects of flight planning and execution:
 
 ### 1. Interactive Moving Map
 <p align="center">
@@ -96,7 +96,7 @@ FlyNav offers a wide range of features to support various aspects of flight plan
 
 ## Target Audience
 
-FlyNav is designed for:
+FlyingNav is designed for:
 
 *   Private Pilots
 *   Glider Pilots
@@ -105,17 +105,17 @@ FlyNav is designed for:
 
 ## Getting Started
 
-To get started with FlyNav, follow these steps:
+To get started with FlyingNav, follow these steps:
 
 1.  [Google Play Store](https://play.google.com/store/apps/details?id=com.FlyProject.flyingNav&pcampaignid=web_share)
 2.  Install the app on your Android device.
 3.  Download the required Database files for your location
 4.  Explore the various features and customize the settings to fit your needs.
-5.  Take to the skies with FlyNav as your navigation companion!
+5.  Take to the skies with FlyingNav as your navigation companion!
 
 ## Contribute
 
-We welcome contributions from the community! If you're a developer, pilot, or aviation enthusiast, and would like to help improve FlyNav, contact me at the email provided below
+We welcome contributions from the community! If you're a developer, pilot, or aviation enthusiast, and would like to help improve FlyingNav, contact me at the email provided below
 
 ## Contact
 
